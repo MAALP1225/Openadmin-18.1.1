@@ -1,5 +1,14 @@
 # OpenNetAdmin 18.1.1 - Remote Code Execution
 
+### Installation:
+> git clone https://github.com/MAALP1225/Openadmin-18.1.1.git
+
+> chmod +x openadmin.sh
+
+> Bash openadmin.sh
+
+
+
 ### Usage:
 > bash openadmin.sh
 
@@ -10,14 +19,6 @@
 > output :-uid=33(www-data) gid=33(www-data) groups=33(www-data)
 
 
-
-
-### Installation:
-> git clone https://github.com/MAALP1225/Openadmin-18.1.1.git
-
-> chmod +x openadmin.sh
-
-> Bash openadmin.sh
 
 ### Poc:
 ![alt text](https://github.com/MAALP1225/Openadmin-18.1.1/blob/master/github%20POC.png)
